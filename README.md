@@ -1,4 +1,4 @@
-## EIC-DRICH analysis Files for Aerogel n=1.019 (electrons only)
+## EIC-DRICH plots for Aerogel n=1.019 (electrons only)
 
 Total files: 1554
 
